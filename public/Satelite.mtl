@@ -1,0 +1,13 @@
+# Blender MTL File: 'Satelite.blend'
+# Material Count: 1
+newmtl Satelite_Satelite
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.800000 1.800000 1.800000  # Aumentado para aclarar el material
+Ks 2.700000 2.700000 2.700000  # Aumentado para más brillo especular
+Ni 1.000000
+d 1.000000  # Asegúrate de que sea opaco si no deseas transparencia
+illum 5
+map_Kd satelite_diffuse.jpg
+
+
